@@ -990,7 +990,7 @@ button.cta-button {
   justify-content: center;
 
   /* Contorno blanco sin clipping */
-  box-shadow: 0 0 0 4px white;
+  box-shadow: 0 0 0 2px white;
 }
 
 .logo .icon {
